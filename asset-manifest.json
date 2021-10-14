@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/facemesh/static/css/main.a617e044.chunk.css",
+    "main.js": "/facemesh/static/js/main.337938c2.chunk.js",
+    "main.js.map": "/facemesh/static/js/main.337938c2.chunk.js.map",
+    "runtime-main.js": "/facemesh/static/js/runtime-main.e507d2e9.js",
+    "runtime-main.js.map": "/facemesh/static/js/runtime-main.e507d2e9.js.map",
+    "static/js/2.d9919710.chunk.js": "/facemesh/static/js/2.d9919710.chunk.js",
+    "static/js/2.d9919710.chunk.js.map": "/facemesh/static/js/2.d9919710.chunk.js.map",
+    "index.html": "/facemesh/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/facemesh/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d9919710.chunk.js.LICENSE.txt": "/facemesh/static/js/2.d9919710.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e507d2e9.js",
+    "static/js/2.d9919710.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.337938c2.chunk.js"
+  ]
+}
